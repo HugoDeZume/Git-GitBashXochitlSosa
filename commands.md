@@ -26,4 +26,11 @@ _Create and edit text files_
 - To compare two files we use "diff" <file name 1> <file name 2>
 - To display the differences of two files we use "diff" <file name 1> <file name 2>
 
+_Get the state of the computer_
+- To get the computer's software and hardware status use "systeminfo"
+
+_Git Branches_
+- To display a list of the. branches on your repository use "git branch"
+- If you want to merge a brach into your current one, use "git merge <branch>"
+
 
